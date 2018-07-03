@@ -12,6 +12,6 @@ public class Welcome {
 		r2d2.setSpeed(10);
 		r2d2.move(400);
 		JOptionPane.showMessageDialog(null, "WELCOME TO LEVEL 0!!");
-		System.out.println("I love programming");
+		System.out.println("I really love programming");
 	}
 }
